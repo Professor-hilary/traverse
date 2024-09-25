@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1727173570 source:c:\users\ujvvvvvvvvvvvvvvvvvv\documents\cpp\traverse\main.cpp
+	<ncursesw/ncurses.h>
+	<dirent.h>
+	<string>
+	<vector>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<stack>
+	<windows.h>
+	<tchar.h>
+	<direct.h>
+	<sys/stat.h>
+	<sys/stat.h>
+	<pwd.h>
+	<grp.h>
+	<unistd.h>
+	<time.h>
+
+1727106556 c:\program files\codeblocks\mingw\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1727106557 c:\program files\codeblocks\mingw\include\ncursesw\ncurses_dll.h
+
+1727106556 c:\program files\codeblocks\mingw\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1727106556 c:\program files\codeblocks\mingw\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
